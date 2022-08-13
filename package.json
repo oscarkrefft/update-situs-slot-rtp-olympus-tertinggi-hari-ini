@@ -1,0 +1,23 @@
+{
+  "name": "update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+  "main": "./lib/update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+  "version": "0.0.0",
+  "description": "Update Situs Slot RTP Olympus Tertinggi Hari Ini 98% Dari Admin Jarwo, Agus, Dika.",
+  "keywords": [
+    "rtp",
+    "rtp slot",
+    "rtp live",
+    "situs slot rtp tertinggi",
+    "rtp slot hari ini"
+  ],
+  "activationCommands": {
+    "atom-workspace": "update-situs-slot-rtp-olympus-tertinggi-hari-ini:toggle"
+  },
+  "repository": "https://github.com/atom/update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

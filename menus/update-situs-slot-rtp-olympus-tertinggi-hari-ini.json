@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+        "command": "update-situs-slot-rtp-olympus-tertinggi-hari-ini:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "update-situs-slot-rtp-olympus-tertinggi-hari-ini:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
