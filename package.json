@@ -1,7 +1,7 @@
 {
   "name": "update-situs-slot-rtp-olympus-tertinggi-hari-ini",
   "main": "./lib/update-situs-slot-rtp-olympus-tertinggi-hari-ini",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Update Situs Slot RTP Olympus Tertinggi Hari Ini 98% Dari Admin Jarwo, Agus, Dika.",
   "keywords": [
     "rtp",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
