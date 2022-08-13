@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "update-situs-slot-rtp-olympus-tertinggi-hari-ini:toggle"
   },
-  "repository": "https://github.com/atom/update-situs-slot-rtp-olympus-tertinggi-hari-ini",
+  "repository": "https://github.com/oscarkrefft/update-situs-slot-rtp-olympus-tertinggi-hari-ini",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
